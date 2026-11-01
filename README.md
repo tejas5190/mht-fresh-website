@@ -7,14 +7,15 @@ Static, responsive corporate website for MHT Fresh / MHT Group. No build step or
 - `fruits.html` — searchable fruit library with category and origin filters, variety selection and six-section product-book reader.
 - `site.css` — shared responsive design system and print styles.
 - `site.js` — shared navigation and email-enquiry interactions.
-- `fruits.js` — fruit catalogue and product-book content structure.
+- `fruits.js` — fruit catalogue and sourced product-book content for the first research batch.
+- `RESEARCH_SOURCES.md` — research register, source dates, scope limitations and expansion plan.
 - `_headers` — baseline security response headers.
 
 ## Local preview
 Open `index.html` in a modern browser. Open `fruits.html` to test the fruit library. The pages are static and can be hosted on Cloudflare Pages with no build command and `/` as the output directory.
 
 ## Fruit data integrity
-Fruit names, variety examples and indicative origins are a starter navigation catalogue, not confirmation of current supply, supplier relationships or import eligibility. Product-book sections currently provide a structured research framework. Fruit-specific Brix, firmness, calibre, storage, temperature, season and nutrition values must be researched and sourced before publication. Distinguish reference data from measured shipment-lot data. Validate each commercial specification, current Indian import eligibility and crop window before publishing shipment claims.
+Fruit names, variety examples and indicative origins are a starter navigation catalogue, not confirmation of current supply, supplier relationships or import eligibility. The first researched batch covers Apple (Gala, Fuji, Granny Smith, Red Delicious, Golden Delicious), Mandarin, Table Grapes and Dragon Fruit. The research register explains which references are cultivar-specific and which are commodity-level. Remaining catalogue fruits and varieties are still a research framework. Fruit-specific Brix, firmness, calibre, storage, temperature, season and nutrition values must be researched and sourced before publication. Distinguish reference data from measured shipment-lot data. Validate each commercial specification, current Indian import eligibility and crop window before publishing shipment claims.
 
 ## Current limitations
 - The enquiry form opens the visitor's email application using `info@mhtfresh.com`; it does not store or transmit form data to a server.
