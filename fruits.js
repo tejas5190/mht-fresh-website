@@ -80,7 +80,1161 @@ pages:[
 {heading:"Harvest & grading",copy:"UC Davis states that dragon fruit is generally harvested close to full ripe because it does not continue ripening after harvest. It describes days after flowering (minimum 27–33 days depending on cultivar and production area) and skin-colour intensity as commonly used maturity indices. Quality checks include size, skin colour, well-shaped fruit, firm fleshy green bracts and absence of splitting, mechanical damage, water loss and decay. Its top-quality reference includes a minimum TSS:TA ratio of 40.",facts:[["Harvest maturity","Close to full ripe"],["Days after flowering","27–33 days minimum in source context"],["Quality indicator","Skin colour intensity"],["Top-quality ratio","TSS:TA ≥40 in source context"]]},
 {heading:"Post-harvest & cold chain",copy:"The UC Davis source gives 10°C for red pitaya and yellow clones of H. undatus, and 6°C for yellow pitaya (Selenicereus megalanthus), with 85–90% RH. These are type-dependent reference conditions. The source identifies chilling injury as a relevant quality risk; do not apply one temperature to all dragon-fruit types.",facts:[["Red pitaya / yellow H. undatus clones","10°C reference"],["Yellow pitaya S. megalanthus","6°C reference"],["Relative humidity","85–90%"],["Key caution","Separate type-specific cold chain"]]},
 {heading:"Technical specification & inspection",copy:"For each lot, record the exact commercial type/species, days after flowering if available, skin colour, TSS, TA, TSS:TA ratio, flesh firmness, size/weight distribution, bract freshness, splitting, bruising, water loss and decay. The UC Davis source does not define a universal export carton weight or calibre table. Keep actual measured lot data separate from reference maturity guidance.",facts:[["Identity","Type / species / cultivar"],["Maturity","DAF + skin colour"],["Quality","TSS, TA, firmness, bracts"],["Lot data","Measure and record"]]}],
-sources:[["UC Davis — Dragon Fruit","https://postharvest.ucdavis.edu/produce-facts-sheets/dragon-fruit","Last updated July 2011"]]}
+sources:[["UC Davis — Dragon Fruit","https://postharvest.ucdavis.edu/produce-facts-sheets/dragon-fruit","Last updated July 2011"]]},
+
+  "Pear": {
+    "scope": "Commodity sheet plus cultivar-specific Anjou/Bosc/Comice and Bartlett references",
+    "pages": [
+      {
+        "heading": "Pear — product profile",
+        "copy": "Pears are harvested mature-green before full ripeness; firmness is a key maturity index, with cultivar-specific ranges in the cited Anjou, Bosc and Comice sheet. Bartlett uses a combined firmness/SSC index modified by size and skin colour. These references are California-context guidance, not universal import limits.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Pear"
+          ],
+          [
+            "Variety scope",
+            "Commodity sheet plus cultivar-specific Anjou/Bosc/Comice and Bartlett references"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Pear cultivars differ in shape, skin finish, russeting and eating texture. The cited UC Davis sheets describe appearance, flesh firmness, sugars/acids and aroma as quality attributes; no matched nutrient panel is supplied.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "The cited sources describe commercial pear cultivars and California handling. They do not provide a global crop calendar for Packham’s Triumph, Abate Fetel, Conference, Ya Li or Hosui. Origin seasons need region- and crop-year-specific sources.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Inspect maturity using the correct cultivar method; record flesh firmness, SSC where relevant, size, skin colour and internal condition. Check for bruising, scars, russeting, internal breakdown and decay.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "UC Davis gives -1 to 0°C and 90–95% RH for several European pear types; Bartlett has its own cited reference. Pears require careful maturity, cooling and ripening management. Do not copy one cultivar’s set point to another.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, harvest maturity, firmness protocol/tip, SSC, fruit diameter, colour, defects and internal condition. Buyer grade, count, carton and destination rules must be separately agreed.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Pear",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/pear-anjou-bosc-comice",
+        "Last updated August 1996"
+      ]
+    ]
+  },
+  "Orange": {
+    "scope": "Commodity-level UC Davis postharvest reference; not cultivar-specific",
+    "pages": [
+      {
+        "heading": "Orange — product profile",
+        "copy": "The cited UC Davis orange sheet uses soluble-solids/acid ratio together with rind colour as maturity indices. It notes that rind colour alone does not establish internal eating quality. The stated ratios are California research context, not a universal export standard.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Orange"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis postharvest reference; not cultivar-specific"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Quality assessment includes colour intensity and uniformity, firmness, size, shape, smoothness, flavour and freedom from decay or physical damage. The source does not provide cultivar-matched nutrition values.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Valencia, Navel, Lane Late, Blood Orange and Shamouti have different production calendars. This source does not establish origin-specific seasons for Egypt, South Africa, Spain or Australia.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Inspect external colour, size, firmness, rind condition and decay; sample juice for SSC/acid ratio where the buyer specification requires it. Avoid harvest/handling when fruit is highly turgid to reduce oil spotting.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "The source gives 3–8°C up to three months depending on cultivar, maturity and production area, with 90–95% RH; it also documents exceptions for specific growing regions. Chilling injury and decay risks vary by origin and cultivar.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, origin, maturity sample, juice SSC, titratable acidity, ratio, size/count, rind defects, decay and treatment history. Apply destination-market grade and residue requirements separately.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Orange",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/orange",
+        "Last updated May 1999"
+      ]
+    ]
+  },
+  "Lemon": {
+    "scope": "Commodity-level UC Davis postharvest reference; not cultivar-specific",
+    "pages": [
+      {
+        "heading": "Lemon — product profile",
+        "copy": "The UC Davis reference uses minimum juice content by grade (28% or 30%) and colour stage as maturity/marketing indicators. Dark-green picked lemons have longer postharvest life in the cited context than fully yellow fruit.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Lemon"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis postharvest reference; not cultivar-specific"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Quality attributes include yellow colour intensity/uniformity, size, shape, smoothness, firmness, decay and freedom from rind defects. No cultivar-specific nutrient table is provided.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Eureka, Lisbon, Meyer and Verna need separate origin/region crop calendars. The commodity sheet does not verify current harvest windows or import availability.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Sample juice content by volume and inspect colour, size, shape, firmness, rind stains, drying, shrivelling and decay. Record grade method and sampling basis.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "The source gives 12–14°C and 90–95% RH depending on cultivar, maturity, origin and journey; it discusses chilling injury and ethylene-related senescence. Treat these as research references, not shipping instructions.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, juice percentage, colour, size, firmness, rind defects, decay, origin, treatment and temperature history. Confirm grade-specific juice thresholds with the buyer.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Lemon",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/lemon",
+        "Last updated May 1999"
+      ]
+    ]
+  },
+  "Lime": {
+    "scope": "Commodity-level UC Davis postharvest reference; not cultivar-specific",
+    "pages": [
+      {
+        "heading": "Lime — product profile",
+        "copy": "The cited sheet identifies juice content of at least 30% by volume and colour stage as maturity/quality indicators. Mature-green limes generally retain postharvest life longer than yellow fruit in the source context.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Lime"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis postharvest reference; not cultivar-specific"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Quality attributes include colour, size, shape, firmness, smoothness, juice condition and freedom from bruising, oil spotting, dryness and stylar-end breakdown. No matched nutrient panel is provided.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Persian/Tahiti, Key Lime and Indian Acid Lime are not interchangeable. The source does not establish origin-specific seasons for India, Mexico or Brazil.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Inspect green/yellow colour as required by target market, juice percentage, size, firmness, rind condition, oil spotting, bruising and decay.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "The source gives 10–13°C and 90–95% RH, depending on cultivar and maturity, with chilling injury risk below 10°C under prolonged exposure. Avoid ethylene where green colour retention matters.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record lime type, juice percentage, colour, size, firmness, defects, origin and cold-chain history. Confirm whether the buyer wants green or yellow fruit.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Lime",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/lime",
+        "Last updated May 1999"
+      ]
+    ]
+  },
+  "Mango": {
+    "scope": "Commodity-level UC Davis postharvest reference; not cultivar-specific",
+    "pages": [
+      {
+        "heading": "Mango — product profile",
+        "copy": "The UC Davis sheet lists fullness of cheeks, skin-colour transition (in some cultivars) and flesh-colour change as maturity indices. Red skin is explicitly not a dependable maturity index for some cultivars.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Mango"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis postharvest reference; not cultivar-specific"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Cultivars differ substantially in sweetness, sourness, aroma and fibre. Quality assessment includes shape, size, skin colour, flesh firmness and freedom from sapburn, abrasion, chilling injury and decay. Nutrition figures are not cultivar-matched here.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Alphonso, Kesar, Totapuri, Banganapalli, Dasheri, Kent, Keitt and Tommy Atkins have distinct regional seasons. This source does not provide current India/origin crop calendars.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Assess fullness of cheeks, flesh colour, firmness, size, shape and defects. Record maturity and sample protocol; red blush alone must not be treated as proof of maturity.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "The sheet gives 13°C for mature-green and 10°C for partially-ripe/ripe mangoes, with 90–95% RH. Chilling injury depends on cultivar, ripeness and exposure; use cultivar/origin-specific validated protocols.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, maturity stage, flesh firmness, SSC, acidity if required, fibre/defect observations, size, treatment, pack format and temperature history. Do not transfer one cultivar’s specification to another.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Mango",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/mango",
+        "Last updated February 1997"
+      ]
+    ]
+  },
+  "Avocado": {
+    "scope": "Commodity-level UC Davis reference with cultivar-specific dry-matter examples",
+    "pages": [
+      {
+        "heading": "Avocado — product profile",
+        "copy": "The UC Davis sheet identifies dry matter as a maturity index correlated with oil content in California and many other production areas. Its cited minimums differ by cultivar: Fuerte 19.0%, Hass 20.8%, Gwen 24.2%. These are source-context values and must not be assumed valid for every origin or current import protocol.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Avocado"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis reference with cultivar-specific dry-matter examples"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Quality indices include size, cultivar-dependent shape and skin colour, and freedom from sunburn, wounds, blemishes, flesh browning, anthracnose and stem-end rot. No matched nutrient panel is included.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Hass, Fuerte, Pinkerton, Zutano and Reed have different maturity patterns and harvest windows. The fact sheet is not an origin-specific calendar for Tanzania, Kenya, Peru, South Africa or Mexico.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Measure dry matter using a documented method where appropriate; inspect size, shape, skin condition, wounds, sunburn, flesh browning and disease. Florida cultivars may use different maturity criteria.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "Mature-green reference is 5–13°C depending on cultivar and duration; ripe fruit 2–4°C; RH 90–95%. The sheet warns of chilling injury at low temperatures and prolonged exposure. Validate by cultivar and route.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, dry matter method/result, harvest maturity, size, defects, ripeness stage, treatment and temperature history. Never apply Hass dry-matter limits to other cultivars without evidence.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Avocado",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/avocado",
+        "Last updated February 1999"
+      ]
+    ]
+  },
+  "Kiwi": {
+    "scope": "Commodity-level UC Davis kiwifruit reference; not cultivar-specific",
+    "pages": [
+      {
+        "heading": "Kiwi — product profile",
+        "copy": "The UC Davis reference lists minimum 6.5% SSC at harvest and minimum flesh firmness 14 lbf using an 8-mm tip in its source context. It notes late-harvested fruit retain firmness better and have higher SSC. These are not universal limits for every modern cultivar or origin.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Kiwi"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis kiwifruit reference; not cultivar-specific"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "The source lists freedom from growth cracks, insect injury, bruises, scars, sunscald, internal breakdown and decay. It describes ripe fruit at SSC of at least 14% and 2–3 lbf firmness in the cited context, and notes kiwifruit as a vitamin C source.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Hayward, SunGold, green and red kiwifruit are not equivalent. This source does not establish harvest calendars for Iran, New Zealand, Italy, Greece or China.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Record SSC and flesh firmness with the specified probe tip, and inspect for cracks, bruising, scars, sunscald, internal breakdown and decay. State whether measurements are harvest maturity or ready-to-eat ripeness.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "The cited reference gives 0°C and 90–95% RH. Kiwifruit is highly ethylene-sensitive; the source warns that very low ethylene exposure can induce softening. CA conditions are technical and require validated operation.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, harvest date, SSC, firmness/probe size, size distribution, defects, ethylene exposure and cold-chain history. Confirm buyer maturity and eating-ripeness requirements separately.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Kiwi",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/kiwifruit",
+        "Last updated February 1996"
+      ]
+    ]
+  },
+  "Pomegranate": {
+    "scope": "Commodity-level UC Davis postharvest reference; not cultivar-specific",
+    "pages": [
+      {
+        "heading": "Pomegranate — product profile",
+        "copy": "The source lists external red colour (cultivar-dependent), juice colour, and juice acidity as maturity indicators. It states pomegranates do not ripen after harvest and should be picked fully ripe for eating quality.",
+        "facts": [
+          [
+            "Commercial identity",
+            "Pomegranate"
+          ],
+          [
+            "Variety scope",
+            "Commodity-level UC Davis postharvest reference; not cultivar-specific"
+          ],
+          [
+            "Reference basis",
+            "UC Davis postharvest sheet"
+          ],
+          [
+            "Trade status",
+            "General research, not an offer"
+          ]
+        ]
+      },
+      {
+        "heading": "Nutrition & eating characteristics",
+        "copy": "Quality indices include freedom from growth cracks, cuts, bruises and decay; skin colour/smoothness; and juice sugar-acid balance. The source gives a desirable SSC reference above 17% and tannin below 0.25% in its context, not a universal buyer limit.",
+        "facts": [
+          [
+            "Nutrition values",
+            "No cultivar-matched panel published"
+          ],
+          [
+            "Quality attributes",
+            "Use source-specific fruit metrics"
+          ],
+          [
+            "Eating quality",
+            "Variety and maturity dependent"
+          ],
+          [
+            "Data scope",
+            "Commodity reference"
+          ]
+        ]
+      },
+      {
+        "heading": "Growing regions & season",
+        "copy": "Bhagwa, Wonderful, Arakta and Ganesh require cultivar- and region-specific crop windows. The UC Davis commodity sheet does not provide current Indian or international harvest calendars.",
+        "facts": [
+          [
+            "Catalogue origins",
+            "Indicative navigation only"
+          ],
+          [
+            "Crop calendar",
+            "Origin and crop-year research required"
+          ],
+          [
+            "Availability",
+            "Not confirmed"
+          ],
+          [
+            "Import eligibility",
+            "Check current Indian requirements"
+          ]
+        ]
+      },
+      {
+        "heading": "Harvest & grading",
+        "copy": "Inspect crown/calyx, skin colour, cracks, cuts, bruises, shrivel and decay. Sample juice SSC and acidity when required; fruit should be harvested fully ripe because it does not continue ripening after harvest.",
+        "facts": [
+          [
+            "Maturity",
+            "Use the cited fruit-specific indicators"
+          ],
+          [
+            "Grading",
+            "Destination and buyer specification"
+          ],
+          [
+            "Defects",
+            "Record by agreed grade"
+          ],
+          [
+            "Sampling",
+            "Document sample size and method"
+          ]
+        ]
+      },
+      {
+        "heading": "Packaging & post-harvest",
+        "copy": "The cited source gives 5°C up to two months and 7.2°C for longer storage to reduce chilling injury, with 90–95% RH. It highlights water loss and shrivelling; these are research references requiring origin/route validation.",
+        "facts": [
+          [
+            "Storage",
+            "Source-specific reference only"
+          ],
+          [
+            "Humidity",
+            "Validate by fruit, origin and route"
+          ],
+          [
+            "Handling",
+            "Minimise mechanical injury"
+          ],
+          [
+            "Shelf life",
+            "Do not infer without route validation"
+          ]
+        ]
+      },
+      {
+        "heading": "Technical specification & inspection",
+        "copy": "Record cultivar, maturity, SSC, acidity, juice colour, size/weight, crown condition, cracks, bruising, shrivel, decay, packaging and temperature history.",
+        "facts": [
+          [
+            "Identity",
+            "Cultivar/type and origin"
+          ],
+          [
+            "Measurements",
+            "Record units and method"
+          ],
+          [
+            "Defects",
+            "Photograph and quantify"
+          ],
+          [
+            "Lot data",
+            "Date, sample, instrument, inspector"
+          ]
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "UC Davis — Pomegranate",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/pomegranate",
+        "Last updated February 1996"
+      ]
+    ]
+  }
+
 };
 
 const BOOK_SECTIONS=[
