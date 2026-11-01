@@ -53,6 +53,37 @@ The current UC Davis pages used here were last updated between 1996 and 1999. Th
 UNECE's current fresh fruit and vegetable standards register was also reviewed as the international grading-standard index. It lists revised standards for pears (2025), citrus fruit (2025), kiwifruit (2023), avocados (2019), mangoes (2012) and pomegranates (2022). The index is a pointer to the applicable standard; it does not replace checking the full standard and destination-country law: https://unece.org/trade/wp7/FFV-Standards
 
 
+
+## Scope completed in the third research batch — 1 November 2026
+
+The third product-book batch adds six-section, source-linked commodity research for:
+- Stone fruit: Peach, Nectarine, Plum, Apricot and Cherry.
+- Berries: Strawberry, Blueberry, Raspberry and Blackberry. Blueberry/raspberry/blackberry share a UC Davis bushberry source; it is not cultivar-specific.
+- Melons: Watermelon, Cantaloupe and Honeydew.
+- Tropical fruit: Papaya, Pineapple, Guava and Lychee.
+
+These are commodity-level postharvest references. They do not establish variety-specific commercial specifications for every catalogue variety, current origin seasons, supplier availability or Indian import eligibility. The UC Davis sheets are mostly older (1996–1999) and the relevant values are presented only as source-context research references.
+
+## Third-batch primary references
+
+20. UC Davis Postharvest Research and Extension Center, Apricot, last updated November 1998: https://postharvest.ucdavis.edu/produce-facts-sheets/apricot
+21. UC Davis Postharvest Research and Extension Center, Nectarine & Peach, last updated May 1996: https://postharvest.ucdavis.edu/produce-facts-sheets/peach
+22. UC Davis Postharvest Research and Extension Center, Plum, last updated May 1996: https://postharvest.ucdavis.edu/produce-facts-sheets/plum
+23. UC Davis Postharvest Research and Extension Center, Cherry, last updated May 1996: https://postharvest.ucdavis.edu/produce-facts-sheets/cherry
+24. UC Davis Postharvest Research and Extension Center, Strawberry, last updated August 1996: https://postharvest.ucdavis.edu/produce-facts-sheets/strawberry
+25. UC Davis Postharvest Research and Extension Center, Bushberries (blueberry, blackberry, raspberry and cranberry), last updated August 1998: https://postharvest.ucdavis.edu/produce-facts-sheets/bushberry
+26. UC Davis Postharvest Research and Extension Center, Watermelon, last updated February 1997: https://postharvest.ucdavis.edu/produce-facts-sheets/watermelon
+27. UC Davis Postharvest Research and Extension Center, Cantaloupe, last updated February 1997: https://postharvest.ucdavis.edu/produce-facts-sheets/cantaloupe
+28. UC Davis Postharvest Research and Extension Center, Honeydew, last updated February 1997: https://postharvest.ucdavis.edu/produce-facts-sheets/honeydew
+29. UC Davis Postharvest Research and Extension Center, Papaya, last updated May 1997: https://postharvest.ucdavis.edu/produce-facts-sheets/papaya
+30. UC Davis Postharvest Research and Extension Center, Pineapple, last updated November 1996: https://postharvest.ucdavis.edu/produce-facts-sheets/pineapple
+31. UC Davis Postharvest Research and Extension Center, Guava, last updated February 1999: https://postharvest.ucdavis.edu/produce-facts-sheets/guava
+32. UC Davis Postharvest Research and Extension Center, Lychee, last updated May 1998: https://postharvest.ucdavis.edu/produce-facts-sheets/lychee
+
+The current UNECE FFV standards register lists relevant standards including Apricots (revised 2021), Cherries (2022), Berry fruits (2019), Strawberries (2021), Peaches and nectarines (2010), Plums (2020), Melons (2012), Watermelons (2021) and Pineapples (2012). The register is an index: inspect the full applicable standard and destination-country law before representing a grade as compliant. https://unece.org/trade/wp7/FFV-Standards
+
+**Commercial-use note:** UC Davis's fact-sheet pages state that commercial reuse of their website content requires prior written approval. The site implementation links to and attributes the sources and uses concise factual summaries; before public commercial launch, obtain written permission or replace these source-derived summaries with independently licensed/commissioned technical content. This is a rights check, not merely a technical detail.
+
 ## Interpretation and limitations
 
 - UC Davis sources are postharvest research references. Some cultivar sheets are old; they are not substitutes for current origin-country protocols, buyer specifications, destination-market standards or a postharvest specialist's advice.
