@@ -223,6 +223,11 @@ sources:[["UC Davis — Dragon Fruit","https://postharvest.ucdavis.edu/produce-f
         "UC Davis — Pear",
         "https://postharvest.ucdavis.edu/produce-facts-sheets/pear-anjou-bosc-comice",
         "Last updated August 1996"
+      ],
+      [
+        "UC Davis — Pear: Bartlett",
+        "https://postharvest.ucdavis.edu/produce-facts-sheets/pear-bartlett",
+        "Last updated May 1996"
       ]
     ]
   },
