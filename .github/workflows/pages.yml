@@ -6,6 +6,7 @@ on:
     paths:
       - "index.html"
       - "wogan.html"
+      - "fruits.html"
       - "site/**"
       - "assets/**"
       - ".github/workflows/pages.yml"
@@ -35,6 +36,7 @@ jobs:
           mkdir -p _site
           cp index.html _site/index.html
           cp wogan.html _site/wogan.html
+          cp fruits.html _site/fruits.html
           cp CNAME _site/CNAME
           if [ -d assets ]; then cp -R assets _site/assets; fi
 
