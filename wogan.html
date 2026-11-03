@@ -21,11 +21,29 @@ section.content{padding:76px 0}.sectionHead{max-width:720px;margin-bottom:28px}.
 .enquiry{background:#e7ecdf;padding:60px 0}.enquiryGrid{display:flex;justify-content:space-between;align-items:center;gap:25px}.enquiry h2{font-size:clamp(30px,4vw,44px);line-height:1.12;color:var(--forest);margin:10px 0}.enquiry p{color:var(--muted);max-width:620px}
 footer{background:#102d20;color:#dce5d9;padding:24px 0;font-size:11px}footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 @media(max-width:760px){.top .wrap{justify-content:center}.top .wrap span:last-child{display:none}.nav{height:auto;min-height:68px;flex-wrap:wrap;padding:12px 0}nav{width:100%;overflow:auto;white-space:nowrap;padding-bottom:8px}.heroGrid,.two,.packGrid{grid-template-columns:1fr}.hero{padding:34px 0}.heroImg{height:290px}.facts .wrap{grid-template-columns:1fr 1fr}.fact{padding:13px;border-bottom:1px solid var(--line)}.fact:nth-child(2){border-right:0}.fact:nth-child(3){padding-left:0}.content{padding:52px 0!important}.photo{height:270px}.gallery{grid-template-columns:1fr 1fr;grid-template-rows:190px 150px}.gallery figure:first-child{grid-row:span 2}.specs{grid-template-columns:1fr 1fr}.packGrid img{height:260px}.enquiryGrid{display:block}.enquiry .btn{margin-top:12px}footer .wrap{display:block}footer span{display:block;margin-top:8px}}
+/* MHT Fresh shared typography, larger brand mark and persistent social rail */
+body{font-size:16px;line-height:1.7}
+.brand-logo,.logo-img{width:76px;height:76px}
+.brand-name{display:inline-block;margin-left:11px;font:800 25px/1 "Manrope",sans-serif;letter-spacing:-1.1px;color:var(--deep,var(--forest))}
+.brand-name span{color:var(--orange)}
+.nav{min-height:88px}
+.links,header nav{font-size:14px}
+.links a,header nav a{padding:10px 0}
+.social-rail{position:fixed;left:12px;top:50%;transform:translateY(-50%);z-index:80;display:flex;flex-direction:column;gap:9px;padding:9px;background:#fffdf7ed;border:1px solid #e4e8dc;border-radius:28px;box-shadow:0 8px 28px #17352320;backdrop-filter:blur(12px)}
+.social-rail a{width:42px;height:42px;border-radius:50%;display:grid;place-items:center;background:var(--cream,#fff9e9);color:var(--deep,var(--forest));transition:transform .18s,background .18s,color .18s}
+.social-rail a:hover{transform:translateX(3px);background:var(--leaf,var(--forest2));color:#fff}
+.social-rail svg{width:20px;height:20px;fill:currentColor}
+@media(max-width:900px){.social-rail{left:8px;gap:7px;padding:7px}.social-rail a{width:38px;height:38px}}
+@media(max-width:650px){.brand-name{font-size:21px}.brand-logo,.logo-img{width:62px;height:62px}.nav{min-height:68px}.social-rail{top:auto;left:50%;bottom:calc(12px + env(safe-area-inset-bottom));transform:translateX(-50%);flex-direction:row;border-radius:28px;padding:6px;gap:8px}.social-rail a{width:42px;height:42px}}
 </style>
 </head>
 <body>
-<div class="top"><div class="wrap"><span>SEASONAL SPOTLIGHT · WOGAN ORAH MANDARIN</span><span>MHT Fresh · Pune, India</span></div></div>
-<header><div class="wrap nav"><a class="logo" href="index.html" aria-label="MHT Fresh home"><img class="logo-img" src="assets/Logo.png" alt="MHT Fresh"></a><nav><a href="index.html">Home</a><a href="#profile">Product profile</a><a href="#growing">Growing region</a><a href="#packing">Packing</a><a href="#enquiry">Enquire</a></nav></div></header>
+<aside class="social-rail" aria-label="Follow MHT Fresh on social media">
+  <a href="https://www.instagram.com/mht_fresh/?srtk=MWRqb3l5eXVsdXZsYQ==" target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm0 2.2A2.8 2.8 0 0 0 4.2 7v10A2.8 2.8 0 0 0 7 19.8h10a2.8 2.8 0 0 0 2.8-2.8V7A2.8 2.8 0 0 0 17 4.2H7zm5 2.3a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11zm0 2.2a3.3 3.3 0 1 0 0 6.6 3.3 3.3 0 0 0 0-6.6zm5.8-3.4a1.3 1.3 0 1 1 0 2.6 1.3 1.3 0 0 1 0-2.6z"/></svg></a>
+  <a href="https://www.facebook.com/share/1EpzenpAUu/" target="_blank" rel="noopener noreferrer" aria-label="Facebook" title="Facebook"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 21v-8.2h2.8l.4-3.2h-3.2V7.5c0-.9.3-1.5 1.6-1.5h1.7V3.1c-.3 0-1.4-.1-2.6-.1-2.6 0-4.4 1.6-4.4 4.5v2.1H7v3.2h2.8V21h3.7z"/></svg></a>
+  <a href="https://www.linkedin.com/company/145335454/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.2 3a2.2 2.2 0 1 1 0 4.4 2.2 2.2 0 0 1 0-4.4zM3.3 9h3.8v12H3.3V9zm6.1 0H13v1.6h.1A4.1 4.1 0 0 1 16.8 8c4 0 4.7 2.6 4.7 6V21h-3.8v-6.2c0-1.5 0-3.4-2.1-3.4s-2.4 1.6-2.4 3.3V21H9.4V9z"/></svg></a>
+</aside><div class="top"><div class="wrap"><span>SEASONAL SPOTLIGHT · WOGAN ORAH MANDARIN</span><span>MHT Fresh · Pune, India</span></div></div>
+<header><div class="wrap nav"><a class="logo" href="index.html" aria-label="MHT Fresh home"><img class="logo-img" src="assets/Logo.png" alt="MHT Fresh"><span class="brand-name">MHT <span>Fresh</span></span></a><nav><a href="index.html">Home</a><a href="#profile">Product profile</a><a href="#growing">Growing region</a><a href="#packing">Packing</a><a href="#enquiry">Enquire</a></nav></div></header>
 <main>
 <section class="hero" id="profile"><div class="wrap heroGrid"><div><div class="eyebrow">Citrus · Mandarin programme</div><h1>Wuming Wogan<br><em>Orah Mandarin</em></h1><p class="lead">A citrus variety from Wuming, Guangxi, China. This importer-side profile brings together the variety background, growing-region story, fruit characteristics and packing information supplied in the exporter reference.</p><a class="btn" href="#enquiry">Enquire about this product ↗</a></div><div class="heroImg"><img src="assets/wogan-mandarin.jpg" alt="Wuming Wogan Orah mandarins, supplier reference image"><div class="caption">Wuming Wogan · Orah Mandarin · Supplier reference image</div></div></div></section>
 <section class="facts"><div class="wrap"><div class="fact"><small>Product</small><b>Wogan / Orah Mandarin</b></div><div class="fact"><small>Origin in source</small><b>Wuming, Guangxi, China</b></div><div class="fact"><small>Parentage reported</small><b>Temple × Danxi</b></div><div class="fact"><small>Category</small><b>Citrus · Mandarin</b></div></div></section>
