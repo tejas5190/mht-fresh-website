@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--forest:#173d2b;--forest2:#244f39;--leaf:#7f9d64;--lime:#d8e7b6;--cream:#f7f6f0;--paper:#fffefa;--ink:#17241c;--muted:#68746b;--line:#e3e6dc;--orange:#d98245;--shadow:0 18px 50px #172d1d12}
+:root{--sun:#ffd43b;--leaf:#267342;--deep:#164e32;--orange:#f47a38;--coral:#ef6657;--cream:#fff9e9;--paper:#fffdf7;--ink:#173523;--muted:#647568;--shadow:0 18px 45px #25452b18;--forest:var(--deep);--forest2:var(--leaf);--lime:var(--sun);--line:#e9e6d8}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.7 "DM Sans",sans-serif}a{color:inherit;text-decoration:none}img{display:block;width:100%;object-fit:cover}.wrap{width:min(1160px,91%);margin:auto}
 .top{background:var(--forest);color:#e8efdf;font-size:11px;letter-spacing:.05em}.top .wrap{min-height:34px;display:flex;justify-content:space-between;align-items:center;gap:15px}
 header{position:sticky;top:0;z-index:9;background:#fffefaeF;backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}.nav{height:74px;display:flex;align-items:center;justify-content:space-between;gap:20px}.logo{font:800 23px "Manrope";letter-spacing:-1px;color:var(--forest)}.logo span{color:var(--orange)}.logo small{display:block;font:700 9px "DM Sans";letter-spacing:2px;color:var(--muted)}.brand-logo,.logo-img{width:58px;height:58px;display:block;object-fit:contain;border-radius:50%;flex:none}nav{display:flex;gap:24px;font-size:12px;font-weight:700;color:#33463a}.btn{display:inline-block;background:var(--forest);color:white;padding:12px 18px;font-size:12px;font-weight:700;border-radius:3px}.btn:hover{background:var(--orange)}
@@ -58,6 +58,39 @@ p,.lead{font-size:16px;line-height:1.75}
  .social-rail{top:auto;left:50%;bottom:calc(12px + env(safe-area-inset-bottom));transform:translateX(-50%);flex-direction:row;border-radius:28px;padding:6px;gap:8px}
  .social-rail a{width:42px;height:42px}
 }
+
+
+/* MHT Fresh fruit-led brand theme — shared palette and component styling */
+body{background:var(--paper);color:var(--ink);font-family:"DM Sans",sans-serif;font-size:16px;line-height:1.75}
+p{color:var(--muted);font-size:16px;line-height:1.75}
+h1,h2,h3{font-family:"Manrope",sans-serif}
+.brand,.logo{display:flex;align-items:center;gap:10px;white-space:nowrap}
+.brand-name{display:inline-block;margin:0;font:800 30px/1 "Manrope",sans-serif;letter-spacing:-1.2px;color:var(--deep)}
+.brand-name span{color:var(--orange)}
+.brand-logo,.logo-img{width:70px;height:70px;flex:none;object-fit:contain}
+.nav{height:auto;min-height:88px;padding:7px 0}
+.links,header nav{font-size:15px}
+.links a,header nav a{font-size:15px}
+button,.btn,.open,.navbtn{border-radius:30px}
+.card,.detail,.spec,.side,.book-shell{border-radius:16px}
+.card{box-shadow:0 8px 24px #25452b0c}
+.card:hover{box-shadow:var(--shadow)}
+.tag,.variety.active,.tab.active{border-radius:30px}
+input,select,.tools input,.tools select{border-radius:12px}
+.social-rail{background:var(--paper);border-color:#e9e6d8;box-shadow:var(--shadow)}
+@media(max-width:900px){.brand-logo,.logo-img{width:70px;height:70px}.nav{min-height:84px}}
+@media(max-width:650px){.brand-name{font-size:25px}.brand-logo,.logo-img{width:64px;height:64px}.nav{min-height:76px}}
+
+.hero{background:var(--cream)}
+.facts{background:var(--paper);border-color:#e9e6d8}
+.fact{border-color:#e9e6d8}
+.callout{background:#e9f0d7;border-left-color:var(--leaf);color:var(--deep);border-radius:0 14px 14px 0}
+.enquiry{background:var(--sun)}
+.pack{background:var(--deep)}
+footer{background:var(--deep)}
+.note{background:var(--cream);border-color:#f1e4b9;color:#735a20;border-radius:12px}
+.btn{background:var(--leaf);padding:13px 21px;font-size:14px}
+.btn:hover{background:var(--orange)}
 
 </style>
 </head>
