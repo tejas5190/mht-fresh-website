@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Explore MHT Fresh's fruit library: fruit categories, varieties, sourcing origins, quality parameters, packing and trade information."><title>Fruit Library | MHT Fresh</title><style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
-:root{--g:#173d2b;--g2:#244f39;--ink:#17241c;--muted:#68746b;--bg:#f7f6f0;--card:#fffefa;--line:#e3e6dc;--soft:#edf1e6;--orange:#d98245}
+:root{--sun:#ffd43b;--leaf:#267342;--deep:#164e32;--orange:#f47a38;--coral:#ef6657;--cream:#fff9e9;--paper:#fffdf7;--ink:#173523;--muted:#647568;--shadow:0 18px 45px #25452b18;--g:var(--deep);--g2:var(--leaf);--bg:var(--cream);--card:var(--paper);--line:#e9e6d8;--soft:#e9f0d7}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--card);color:var(--ink);font:15px/1.65 "DM Sans",sans-serif}a{color:inherit;text-decoration:none}.wrap{width:min(1240px,91%);margin:auto}
 header{position:sticky;top:0;z-index:10;background:#fffefaeF;backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}.nav{height:78px;display:flex;align-items:center;justify-content:space-between;gap:20px}.logo{font:800 24px/1 "Manrope",sans-serif;letter-spacing:-1.5px;color:var(--g)}.logo small{display:block;font:700 9px "DM Sans";letter-spacing:2px;color:var(--muted);margin-top:6px}.brand-logo,.logo-img{width:58px;height:58px;display:block;object-fit:contain;border-radius:50%;flex:none}nav{display:flex;gap:25px;font-size:13px;font-weight:700;color:#33463a}nav a:hover{color:var(--orange)}
 .hero{padding:58px 0 50px;background:linear-gradient(90deg,#f7f6f0f7 0%,#f7f6f0df 50%,#f7f6f055 100%),url(https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1800&q=85) center/cover}.eyebrow{font-size:10px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--g2)}h1,h2,h3{font-family:"Manrope",sans-serif}h1{font-size:clamp(40px,5vw,62px);line-height:1.05;letter-spacing:-2.5px;margin:12px 0;color:var(--g)}h2{font-size:30px;line-height:1.15;margin:0 0 12px;color:var(--g)}p{color:var(--muted)}.lead{font-size:16px;max-width:720px;line-height:1.8}
@@ -42,6 +42,41 @@ p,.lead{font-size:16px;line-height:1.75}
  .social-rail{top:auto;left:50%;bottom:calc(12px + env(safe-area-inset-bottom));transform:translateX(-50%);flex-direction:row;border-radius:28px;padding:6px;gap:8px}
  .social-rail a{width:42px;height:42px}
 }
+
+
+/* MHT Fresh fruit-led brand theme — shared palette and component styling */
+body{background:var(--paper);color:var(--ink);font-family:"DM Sans",sans-serif;font-size:16px;line-height:1.75}
+p{color:var(--muted);font-size:16px;line-height:1.75}
+h1,h2,h3{font-family:"Manrope",sans-serif}
+.brand,.logo{display:flex;align-items:center;gap:10px;white-space:nowrap}
+.brand-name{display:inline-block;margin:0;font:800 30px/1 "Manrope",sans-serif;letter-spacing:-1.2px;color:var(--deep)}
+.brand-name span{color:var(--orange)}
+.brand-logo,.logo-img{width:70px;height:70px;flex:none;object-fit:contain}
+.nav{height:auto;min-height:88px;padding:7px 0}
+.links,header nav{font-size:15px}
+.links a,header nav a{font-size:15px}
+button,.btn,.open,.navbtn{border-radius:30px}
+.card,.detail,.spec,.side,.book-shell{border-radius:16px}
+.card{box-shadow:0 8px 24px #25452b0c}
+.card:hover{box-shadow:var(--shadow)}
+.tag,.variety.active,.tab.active{border-radius:30px}
+input,select,.tools input,.tools select{border-radius:12px}
+.social-rail{background:var(--paper);border-color:#e9e6d8;box-shadow:var(--shadow)}
+@media(max-width:900px){.brand-logo,.logo-img{width:70px;height:70px}.nav{min-height:84px}}
+@media(max-width:650px){.brand-name{font-size:25px}.brand-logo,.logo-img{width:64px;height:64px}.nav{min-height:76px}}
+
+.hero{background-image:linear-gradient(90deg,#fff9e9f7 0%,#fff9e9df 50%,#fff9e977 100%),url(https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1800&q=85)}
+.side{background:var(--cream);border-color:#e9e6d8}
+.catbtn{border-radius:10px}
+.catbtn.active,.catbtn:hover{background:#e9f0d7;color:var(--deep)}
+.card h3,.detail h2,.side h3{color:var(--deep)}
+.open,.book-launch button{background:var(--leaf);color:white;border:0;border-radius:30px;padding:11px 16px}
+.open:hover,.book-launch button:hover{background:var(--orange);color:white}
+.variety.active{background:var(--leaf);border-color:var(--leaf)}
+.tab.active{color:var(--deep);border-bottom-color:var(--orange)}
+.fact{background:var(--cream)}
+.note{background:var(--cream);border-color:#f1e4b9;color:#735a20}
+.footer{background:var(--deep);color:#e7f0e4;border-color:transparent}
 
 </style></head><body>
 <aside class="social-rail" aria-label="Follow MHT Fresh and contact us on social media">
