@@ -89,7 +89,7 @@ button,.btn,.navbtn{border-radius:30px}
 .brand-film .film-heading{text-align:center;margin:0 auto 22px;max-width:700px}
 .brand-film h2{font-size:clamp(28px,4vw,42px);line-height:1.1;letter-spacing:-.05em;color:var(--deep);margin:8px 0 0}
 .film-frame{max-width:1000px;margin:0 auto;overflow:hidden;border-radius:24px;background:#101010;box-shadow:var(--shadow);border:7px solid #fff}
-.film-frame video{display:block;width:100%;height:auto;max-height:680px;object-fit:contain;background:#101010}
+.film-frame video,.film-frame iframe{display:block;width:100%;aspect-ratio:16/9;height:auto;max-height:680px;border:0;background:#101010}
 @media(max-width:650px){.brand-film{padding:42px 0}.film-frame{border-width:4px;border-radius:16px}}
 
 </style></head><body>
@@ -109,10 +109,7 @@ button,.btn,.navbtn{border-radius:30px}
       <h2 id="brand-film-title">A little taste of the MHT Fresh story.</h2>
     </div>
     <div class="film-frame">
-      <video autoplay muted controls playsinline preload="metadata" poster="assets/wogan-mandarin.jpg" width="848" height="478">
-        <source src="assets/mhtfresh-brand-film.mp4" type="video/mp4">
-        Your browser does not support HTML video. Please try a modern browser.
-      </video>
+      <iframe src="https://drive.google.com/file/d/1uUQX1GefeNWEgrtBREICHREGdGmbrtdf/preview" title="MHT Fresh brand film" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
     </div>
   </div>
 </section>
