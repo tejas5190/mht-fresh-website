@@ -7,6 +7,9 @@ on:
       - "index.html"
       - "wogan.html"
       - "fruits.html"
+      - "sitemap.xml"
+      - "robots.txt"
+      - "CNAME"
       - "site/**"
       - "assets/**"
       - ".github/workflows/pages.yml"
@@ -38,6 +41,8 @@ jobs:
           cp wogan.html _site/wogan.html
           cp fruits.html _site/fruits.html
           cp CNAME _site/CNAME
+          cp sitemap.xml _site/sitemap.xml
+          cp robots.txt _site/robots.txt
           if [ -d assets ]; then cp -R assets _site/assets; fi
 
       - name: Configure Pages
